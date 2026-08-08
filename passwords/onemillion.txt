@@ -1,0 +1,11 @@
+# Sample - මෙතනට rockyou.txt වගේ real wordlist එකක් දාන්න
+Summer2024!
+P@ssw0rd123
+charlie#99
+dragon
+monkey
+football
+shadow
+master
+sunshine
+princess
