@@ -1,0 +1,11 @@
+# Sample - මෙතනට ලොකු wordlist එකක් දාන්න (Git LFS use කරන්න)
+baseball
+trustno1
+hunter2
+michael
+jennifer
+superman
+batman
+696969
+121212
+whatever
